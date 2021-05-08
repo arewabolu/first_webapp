@@ -1,0 +1,17 @@
+h6{
+	text-indent: 10px;
+	background-color: #e0d5b8;
+	width: 450px;
+}
+input.searcher{
+	width: 22px;
+	height:22px;
+}
+div#header{
+	background-color: #e0d5b8;
+	text-align: center;
+}
+div#footer{
+	background-color: #e0d5b8;
+	text-align: center;
+}
